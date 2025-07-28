@@ -1,5 +1,3 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Get Hands on with Cloud Networking!
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-intro)
@@ -17,7 +15,7 @@
 
 ## I'm building a cloud networking architecture
 
-n this hands-on networking series, I'm learning about the core building blocks of cloud networking, including how to design, secure, and manage virtual networks in AWS. By the end of the 9 projects, I will have built a complete Virtual Private Cloud (VPC) from scratch, connected resources across different environments, implemented security and monitoring, and documented each step for my portfolio. I'm learning about cloud networking because it’s a critical skill for building secure, scalable applications in the cloud—and it's in high demand across the tech industry.
+In this hands-on networking series, I'm learning about the core building blocks of cloud networking, including how to design, secure, and manage virtual networks in AWS. By the end of the 9 projects, I will have built a complete Virtual Private Cloud (VPC) from scratch, connected resources across different environments, implemented security and monitoring, and documented each step for my portfolio. I'm learning about cloud networking because it’s a critical skill for building secure, scalable applications in the cloud—and it's in high demand across the tech industry.
 
 Cloud networking is the use of cloud-based services to manage and connect our IT resources, without owning the physical hardware. Before the cloud, companies had to build and maintain their own expensive networks—with servers, cables, data centers, and IT staff.
 
@@ -52,3 +50,15 @@ This helps organizations by allowing them to:
 VPCs form the foundation of secure, scalable cloud applications and are essential for designing cloud infrastructure effectively.
 
 ---
+
+Here are the 9 connected projects, each one taking 1-2 hours to complete:
+
+1️⃣ Build a Virtual Private Cloud (./legendary-aws-networks-vpc.md) - Create the foundation of your network
+2️⃣ VPC Traffic Flow and Security - Control traffic in your network
+3️⃣ Creating a Private Subnet - Set up isolated sections of your VPC
+4️⃣ Launching VPC Resources - Add servers and services to your network
+5️⃣ Testing VPC Connectivity - Verify network communication works
+6️⃣ VPC Peering - Connect multiple VPCs together
+7️⃣ VPC Monitoring with Flow Logs - Track and analyze network traffic
+8️⃣ Access S3 from a VPC - Connect your VPC to AWS storage services
+9️⃣ VPC Endpoints - Optimize connections to AWS services
