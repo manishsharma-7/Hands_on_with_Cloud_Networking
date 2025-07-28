@@ -1,4 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+[Next →](next.md)
 
 # Build a Virtual Private Cloud
 
@@ -111,5 +111,7 @@ Compared to using the AWS Console, an advantage of using commands is that it's f
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-vpc_9b2465411)
 
 ---
+[Next →](next.md)
 
+[⬅ Back to main README](./README.md)
 ---

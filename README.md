@@ -63,6 +63,7 @@ Here are the 9 connected projects, each one taking 1-2 hours to complete:
 8️⃣ Access S3 from a VPC - Connect your VPC to AWS storage services
 9️⃣ VPC Endpoints - Optimize connections to AWS services
 
+--- 
 
 This repository contains a hands-on series of AWS networking projects designed to build practical cloud infrastructure skills.
 
@@ -72,7 +73,7 @@ This repository contains a hands-on series of AWS networking projects designed t
 2. [VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
 3. [Creating a Private Subnet](./legendary-aws-networks-private.md)
 4. [Launching VPC Resources](./legendary-aws-networks-ec2.md)
-5. [Testing VPC Connectivity](./project-5-connectivity.md)
+5. [Testing VPC Connectivity](./legendary-aws-networks-connectivity.md)
 6. [VPC Peering](./legendary-aws-networks-peering.md)
 7. [VPC Monitoring with Flow Logs](./legendary-aws-networks-monitoring.md)
 8. [Access S3 from a VPC](./legendary-aws-networks-s3.md)
