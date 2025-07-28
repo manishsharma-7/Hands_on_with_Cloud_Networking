@@ -1,7 +1,7 @@
 
 ---
 
-[⬅ Back to Main Page](./README.md)
+[Main Page](./README.md)
 
 [➡️ Next Page: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
 
@@ -120,7 +120,7 @@ Compared to using the AWS Console, an advantage of using commands is that it's f
 
 [➡️ Next Page: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
 
-[⬅ Back to Main Page](./README.md)
+[Main Page](./README.md)
 ---
 
 ---

@@ -1,4 +1,4 @@
-[⬅ Back to Main Page](./README.md)
+[Main Page](./README.md)
 ---
 
 ---
@@ -133,7 +133,8 @@ In contrast, a custom network ACL's inbound and outbound rules are automatically
 
 [⬅ Build a Virtual Private Cloud](./legendary-aws-networks-vpc.md)
 
-[⬅ Back to Main Page](./README.md)
+
+[Main Page](./README.md)
 ---
 
 ---
