@@ -1,4 +1,13 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+[Main Page](./README.md)
+---
+
+---
+
+[⬅ Previous Page: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
+
+[➡️ Creating a Private Subnet](./legendary-aws-networks-private.md)
+
+---
 
 # Creating a Private Subnet
 
@@ -69,6 +78,14 @@ Our new network ACL has two simple rules - deny all inbound and deny all outboun
 
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-private_1ed2cb07)
 
+---
+
+[➡️ Next Page: Creating a Private Subnet](./legendary-aws-networks-private.md)
+
+[⬅ VPC Traffic Flow and Security](./legendary-aws-networks-security.md)
+
+
+[Main Page](./README.md)
 ---
 
 ---
