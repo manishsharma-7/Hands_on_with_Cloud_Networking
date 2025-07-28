@@ -51,20 +51,6 @@ VPCs form the foundation of secure, scalable cloud applications and are essentia
 
 ---
 
-Here are the 9 connected projects, each one taking 1-2 hours to complete:
-
-1️⃣ Build a Virtual Private Cloud (./legendary-aws-networks-vpc.md) - Create the foundation of your network
-2️⃣ VPC Traffic Flow and Security - Control traffic in your network
-3️⃣ Creating a Private Subnet - Set up isolated sections of your VPC
-4️⃣ Launching VPC Resources - Add servers and services to your network
-5️⃣ Testing VPC Connectivity - Verify network communication works
-6️⃣ VPC Peering - Connect multiple VPCs together
-7️⃣ VPC Monitoring with Flow Logs - Track and analyze network traffic
-8️⃣ Access S3 from a VPC - Connect your VPC to AWS storage services
-9️⃣ VPC Endpoints - Optimize connections to AWS services
-
---- 
-
 This repository contains a hands-on series of AWS networking projects designed to build practical cloud infrastructure skills.
 
 ## 🚀 Projects Overview

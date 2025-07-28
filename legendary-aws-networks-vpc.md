@@ -1,6 +1,9 @@
-[⬅️ Previous: Main Page](./README.md) 
 
-[➡️ Next: VPC Traffic Flow and Security](./project-3-private-subnet.md)
+[⬅ Back to main page](./README.md)
+---
+
+[➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
+---
 
 ---
 
@@ -114,12 +117,11 @@ Compared to using the AWS Console, an advantage of using commands is that it's f
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-vpc_9b2465411)
 
 ---
+
 [➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
-  
-[⬅ Back to main page](./README.md)
 ---
 
-
-
+[⬅ Back to main page](./README.md)
+---
 
 ---
