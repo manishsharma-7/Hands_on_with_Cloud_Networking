@@ -1,6 +1,3 @@
-[➡️ Next: Build a Virtual Private Cloud](./legendary-aws-networks-vpc.md)
----
-
 # Get Hands on with Cloud Networking!
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-intro)
@@ -81,3 +78,10 @@ This repository contains a hands-on series of AWS networking projects designed t
 7. [VPC Monitoring with Flow Logs](./legendary-aws-networks-monitoring.md)
 8. [Access S3 from a VPC](./legendary-aws-networks-s3.md)
 9. [VPC Endpoints](./legendary-aws-networks-endpoints.md)
+
+
+
+---
+
+[➡️ Next: Build a Virtual Private Cloud](./legendary-aws-networks-vpc.md)
+---

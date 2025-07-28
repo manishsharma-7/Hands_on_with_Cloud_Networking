@@ -114,15 +114,12 @@ Compared to using the AWS Console, an advantage of using commands is that it's f
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-vpc_9b2465411)
 
 ---
-[⬅️ Previous: Main Page](./README.md)  
-
 [➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
-&nbsp;  
+  
 [⬅ Back to main page](./README.md)
+---
 
 
-| [⬅️ Previous: Main Page](./README.md) | [➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md)  |
-|:------------------------------------------------------------------|---------------------------------------------------------------------:|
 
 
 ---
