@@ -1,4 +1,6 @@
-[⬅️ Previous: Main Page](./README.md) &nbsp;&nbsp;&nbsp;&nbsp; [➡️ Next: VPC Traffic Flow and Security](./project-3-private-subnet.md)
+[⬅️ Previous: Main Page](./README.md) 
+
+[➡️ Next: VPC Traffic Flow and Security](./project-3-private-subnet.md)
 ---
 
 # Build a Virtual Private Cloud
@@ -14,7 +16,6 @@
 
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-vpc_2facf927)
 
----
 
 ## Introducing Today's Project!
 
@@ -122,8 +123,5 @@ Compared to using the AWS Console, an advantage of using commands is that it's f
 | [⬅️ Previous: Main Page](./README.md) | [➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md)  |
 |:------------------------------------------------------------------|---------------------------------------------------------------------:|
 
----
-
-# Project 2: VPC Traffic Flow and Security
 
 ---
