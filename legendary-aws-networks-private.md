@@ -5,7 +5,7 @@
 
 [⬅ Previous Page: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
 
-[➡️ Creating a Private Subnet](./legendary-aws-networks-private.md)
+[➡️ Next Page: Launching VPC Resources](./legendary-aws-networks-ec2.md)
 
 ---
 
@@ -80,9 +80,9 @@ Our new network ACL has two simple rules - deny all inbound and deny all outboun
 
 ---
 
-[➡️ Next Page: Creating a Private Subnet](./legendary-aws-networks-private.md)
+[➡️ Next Page: Launching VPC Resources](./legendary-aws-networks-ec2.md)
 
-[⬅ VPC Traffic Flow and Security](./legendary-aws-networks-security.md)
+[⬅ Previous Page: VPC Traffic Flow and Security](./legendary-aws-networks-security.md)
 
 
 [Main Page](./README.md)
