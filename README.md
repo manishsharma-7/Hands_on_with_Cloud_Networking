@@ -1,3 +1,6 @@
+[➡️ Next: Build a Virtual Private Cloud](./legendary-aws-networks-vpc.md)
+---
+
 # Get Hands on with Cloud Networking!
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-intro)
