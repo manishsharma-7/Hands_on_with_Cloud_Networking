@@ -1,4 +1,13 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+[Main Page](./README.md)
+---
+
+---
+
+[⬅ Previous Page: Launching VPC Resources](./legendary-aws-networks-ec2.md)
+
+[➡️ Next Page: Testing VPC Connectivity](./legendary-aws-networks-connectivity.md)
+
+---
 
 # Testing VPC Connectivity
 
@@ -100,6 +109,14 @@ curl https://learn.nextwork.org/projects/aws-host-a-website-on-s3
 
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-connectivity_8ee57662)
 
+---
+
+[➡️ Next Page: Testing VPC Connectivity](./legendary-aws-networks-connectivity.md)
+
+[⬅ Previous Page: Launching VPC Resources](./legendary-aws-networks-ec2.md)
+
+
+[Main Page](./README.md)
 ---
 
 ---

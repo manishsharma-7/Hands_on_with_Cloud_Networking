@@ -1,4 +1,13 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+[Main Page](./README.md)
+---
+
+---
+
+[⬅ Previous Page: VPC Monitoring with Flow Logs](./legendary-aws-networks-monitoring.md)
+
+[➡️ Next Page: VPC Endpoints](./legendary-aws-networks-endpoints.md)
+
+---
 
 # Access S3 from a VPC
 
@@ -141,6 +150,14 @@ This command then lists the contents of the bucket to confirm that the upload wa
 
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-s3_3e1e79a2)
 
+---
+
+[➡️ Next Page: VPC Endpoints](./legendary-aws-networks-endpoints.md)
+
+[⬅ Previous Page: VPC Monitoring with Flow Logs](./legendary-aws-networks-monitoring.md)
+
+
+[Main Page](./README.md)
 ---
 
 ---

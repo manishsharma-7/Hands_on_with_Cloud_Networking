@@ -1,4 +1,11 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+[Main Page](./README.md)
+---
+
+---
+
+[⬅ Previous Page: Access S3 from a VPC](./legendary-aws-networks-s3.md)
+
+---
 
 # VPC Endpoints
 
@@ -225,6 +232,12 @@ We could see the effect of this right away, because when we tried to access the 
 
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-endpoints_3e1e79a3)
 
+---
+
+[⬅ Previous Page: Access S3 from a VPC](./legendary-aws-networks-s3.md)
+
+
+[Main Page](./README.md)
 ---
 
 ---

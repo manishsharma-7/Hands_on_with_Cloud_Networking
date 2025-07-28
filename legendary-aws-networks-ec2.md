@@ -1,4 +1,13 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+[Main Page](./README.md)
+---
+
+---
+
+[⬅ Previous Page: Creating a Private Subnet](./legendary-aws-networks-private.md)
+
+[➡️ Next Page: VPC Peering](./legendary-aws-networks-peering.md)
+
+---
 
 # Launching VPC Resources
 
@@ -91,6 +100,14 @@ The setup page also offered to create NAT gateways, which are connectors that le
 
 ![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-networks-ec2_8ee57662)
 
+---
+
+[➡️ Next Page: VPC Peering](./legendary-aws-networks-peering.md)
+
+[⬅ Previous Page: Creating a Private Subnet](./legendary-aws-networks-private.md)
+
+
+[Main Page](./README.md)
 ---
 
 ---
