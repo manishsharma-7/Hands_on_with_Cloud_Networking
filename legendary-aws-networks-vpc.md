@@ -1,6 +1,4 @@
-[⬅️ Previous: Main Page](./README.md)  
-&nbsp;  
-[➡️ Next: VPC Traffic Flow and Security](./project-3-private-subnet.md)
+[⬅️ Previous: Main Page](./README.md) &nbsp;&nbsp;&nbsp;&nbsp; [➡️ Next: VPC Traffic Flow and Security](./project-3-private-subnet.md)
 ---
 
 # Build a Virtual Private Cloud
@@ -119,4 +117,13 @@ Compared to using the AWS Console, an advantage of using commands is that it's f
 [➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md) 
 &nbsp;  
 [⬅ Back to main page](./README.md)
+
+
+| [⬅️ Previous: Main Page](./README.md) | [➡️ Next: VPC Traffic Flow and Security](./legendary-aws-networks-security.md)  |
+|:------------------------------------------------------------------|---------------------------------------------------------------------:|
+
+---
+
+# Project 2: VPC Traffic Flow and Security
+
 ---
