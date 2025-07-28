@@ -1,4 +1,10 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+---
+
+[⬅ Previous Page: Build a Virtual Private Cloud](./legendary-aws-networks-vpc.md)
+
+[➡️ Next Page: Creating a Private Subnet](./legendary-aws-networks-private.md)
+
+---
 
 # VPC Traffic Flow and Security
 
@@ -117,6 +123,13 @@ In contrast, a custom network ACL's inbound and outbound rules are automatically
 
 ## Tracking VPC Resources
 
+
+---
+
+[➡️ Next Page: Creating a Private Subnet](./legendary-aws-networks-private.md)
+[⬅ Build a Virtual Private Cloud](./legendary-aws-networks-vpc.md)
+
+[⬅ Back to Main Page](./README.md)
 ---
 
 ---
